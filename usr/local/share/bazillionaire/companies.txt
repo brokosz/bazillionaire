@@ -1,0 +1,437 @@
+23andMe
+Acronis
+Adyen
+Afiniti
+Age of Learning, Inc.
+Airbnb
+Airtable
+Airwallex
+AirWatch
+Alan
+Amplitude
+AmWINS Group
+Apotea
+AppDirect
+AppDynamics
+Applied Intuition
+AppLovin
+AppsFlyer
+Aprogen
+Arctic Wolf
+Armis
+Asana
+Asia First Media
+Atlassian
+Auth0
+Automation Anywhere
+Automattic
+Avant
+AvidXchange
+Avito.ru
+Away
+Babylon Health
+BambooHR
+Benchling
+Benevity
+BenevolentAI
+Better Place
+Better.com
+Bigbasket
+BigID
+Billdesk
+Bird
+BitSight
+BlaBlaCar
+Blend
+Bloom Energy
+Blue Apron
+Bluehole
+Bolt
+Box
+Branch
+Branch Metrics
+Braze
+Brex
+Bukalapak
+Byggfakta
+Byju's
+C3.ai
+C6 Bank
+Calabrio
+Canva
+Careem
+Cars24
+Carta
+Cazoo
+Celonis
+Chargebee
+Checkout.com
+Checkr
+Chime
+CitiusTech
+Cloudflare
+Cloudinary
+CloudKitchens
+Cockroach Labs
+Cohesity
+Collibra
+Compass
+Confluent
+Content Square
+Convoy
+Coupa
+Coursera
+Coveo
+CRED
+Credit Karma
+Creditas
+Crystal Lagoons
+Culture Amp
+Darktrace
+Databricks
+Dataiku
+Dataminr
+DataRobot
+Deezer
+Delhivery
+Deliveroo
+Deutsche Health
+Dfinity
+Digit Insurance
+DigitalOcean
+DISCO
+Doctolib
+Dollar Shave Club
+Doordash
+Dream11
+Dropbox
+Druva
+Duo Security
+Duolingo
+dutchie
+Earnix
+Ebanx
+eFront
+Eightfold.ai
+EMPG
+Epic Games
+Epidemic Sound
+Essential Products
+ezCater
+Fab
+Facebook
+Fair
+Fanatics
+Farfetch
+Feedzai
+Figma
+FirstCry
+Five Star Finance
+Fivetran
+Flipkart
+FlixMobility
+FNZ
+Freshly
+Freshworks
+Front
+Frontline Education
+Gainsight
+Getir
+Gett
+Gilt Groupe
+Ginkgo Bioworks
+GitLab
+Glance
+Global Fashion Group
+Glossier
+Glovo
+GoGoVan
+Gojek
+Gong.io
+Good Technology
+GoPro
+Gousto
+GPClub
+Grab
+Grammarly
+Graphcore
+Groupon
+Grove Collaborative
+Groww
+Guild Education
+Gupshup
+Gusto
+Gympass
+HashiCorp
+HeartFlow
+Hemnet
+HighRadius
+Highspot
+Hike Messenger
+HomeAway
+Houzz
+Icertis
+ID.me
+ifood Movile/Ifood [pt]
+Illumio
+Improbable
+Infinidat
+Infra.Market
+InMobi
+Innovaccer
+Instabase
+Instacart
+Intarcia Therapeutics
+Intercom
+InVision
+IronSource
+Itiviti
+Ivalua
+IZettle
+J&T Express
+Jasper
+Jet.com
+JFrog
+JUUL Labs
+Kabam
+KeepTruckin
+Klarna
+Klook
+Knotel
+Kry
+Kyriba
+L&P Cosmetic
+Lalamove
+Landa Digital Printing
+LaunchDarkly
+Lending Club
+Lenskart
+Letgo
+Lightricks
+LinkedIn
+LivingSocial
+Locus Robotics
+Loft
+Loggi
+Lookout
+Lookout Security
+Lucid
+Lucid Software
+Lyft
+Lynda.com
+MadeiraMadeira
+Magic Leap
+Mailchimp
+Marqeta
+MedMen
+Meero
+Meesho
+MindMaze
+Mirakl
+Miro
+Mobileye
+Moderna Therapeutics
+Monday.com
+monday.com
+Monzo
+Mozido
+Mu Sigma
+MuleSoft
+Musinsa
+N26
+NantHealth
+NantOmics
+Nearmap
+Netskope
+New Relic
+Next Insurance
+Nextdoor
+Nexthink
+Niantic
+Northvolt
+Notion
+Nubank
+Nutanix
+Nykaa
+OakNorth
+Oatly
+OCSiAl
+Octopus Energy
+Okta
+Ola Cabs
+Ola Electric
+One Medical
+OneConnect
+OneTrust
+OrCam
+Oscar Health
+Outreach
+OutSystems
+OVO
+Oxford Nanopore Technologies
+OYO
+PAX Labs
+Paytm
+Paytm Mall
+Peak Games
+Peloton
+Pendo
+Personio GmbH
+PharmEasy
+PhonePe
+Pindrop Security
+Pine Labs
+Pinterest
+Pipedrive
+Pivotal
+Plaid
+Podium
+PolicyBazaar
+Postman
+Postmates
+Procore
+Prometheus Group
+Prosper Marketplace
+Proteus Digital Health
+Pure Storage
+Quikr
+Quinto Andar
+Quora
+Quotient Technology
+Rappi
+Razorpay
+Rec Room Inc
+Reddit
+Relativity Space
+ReNew Power
+Rent the Runway
+Revolut
+RigUp
+Ring
+Riskified
+Rivian
+Rivigo
+Robinhood
+Roivant Sciences
+Roku, Inc.
+Rubicon Global
+Rubrik
+Samsara
+Scale AI
+Sea Limited
+Segment
+Seismic
+Seismic Software
+SentinelOne
+ServiceTitan
+Shape Security
+ShareChat
+Shazam
+ShopClues
+Shopify
+SimpliVity
+Sisense
+Skype
+Skyscanner
+Slack Technologies
+SmartNews
+SmileDirectClub
+Snap Inc
+Snapdeal
+Snowflake
+Snyk
+Socar
+SoFi
+Solstice
+Sonder
+Souq.com
+SpaceX
+Splashtop
+Spotify
+Sprinklr
+Square
+Squarespace
+Starburst Data
+Stash
+Stemcentrx
+Stitch Fix
+StockX
+Stripe
+SumoLogic
+Sunrun
+Swiggy
+Symphony
+Symphony Communication Services
+Talkdesk
+Tanium
+team.blue (merge of Combell Group and TransIP Group)
+Telegram
+The Honest Company
+The Hut Group
+ThoughtSpot
+Thumbtack
+Tipalti
+Toast
+Tokopedia
+TransparentBusiness
+Traveloka
+Trax
+Tresata
+TripActions
+Truecaller
+Trustly
+Turo
+TuSimple
+Twilio
+Twitter
+Ualá
+Uber
+Udaan
+Udacity
+Udemy
+UiPath
+Unacademy
+VAST Data
+Veeam
+VerSe Innovation
+Vestiaire Collective
+Vice Media
+Vinted
+Virta Health
+Viva Republica
+Vlocity
+VNG
+Vonage
+Voodoo
+Vox Media
+VTEX
+VTS
+WalkMe
+Warby Parker
+Wayfair
+Weave
+Webflow
+WeLab
+Wemakeprice
+WeWork
+WhatsApp
+Wheels Up
+Wildlife
+Wise
+Woowa Brothers
+Workato
+Yanolja
+Yardi
+Yello Mobile
+Yotpo
+Zalando
+Zapier
+Zenefits
+Zenoti
+Zerodha
+Zocdoc
+Zomato
+Zoom
+Zoox
+Zulily
+Zynga

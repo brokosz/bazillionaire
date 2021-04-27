@@ -1,0 +1,144 @@
+Aardvarks
+African Elephants
+African Wild Dogs
+African Lions
+Camels
+Arctic Foxes
+Arctic Hares
+Armadillos
+Asian Elephants
+Asian Lions
+Aye-Ayes
+Baboons
+Bactrian Camels
+Beavers
+Beluga Whales
+Bengal Tigers
+Black Bears
+Black-Footed Ferrets
+Black Rhinoceroses
+Blue Whales
+Bobcats
+Bottlenose Dolphins
+Brown Bears
+California Sea Lions
+Caribou
+Cheetahs
+Chimpanzees
+Chipmunks
+Clouded Leopards
+Vampire Bats
+Wombats
+Cottontail Rabbits
+Cougars
+Coyotes
+Dingos
+Domestic Cats
+Domestic Dogs
+Dugongs
+Eastern Gray Kangaroos
+Elephant Seals
+Elk
+Fennec Foxes
+Fossas
+Fur Seals
+Geladas
+Giant Anteaters
+Giant Pandas
+Giant River Otters
+Gibbons
+Giraffes
+Golden Lion Tamarins
+Gray Whales
+Grizzly Bears
+Groundhogs
+Harbor Porpoises
+Hares
+Harp Seals
+Hawaiian Monk Seals
+Hedgehogs
+Hippopotamuses
+Horses
+Howler Monkeys
+Humpback Whales
+Impalas
+Indian Rhinoceroses
+Jaguars
+Orcas
+Kinkajous
+Koalas
+Leopards
+Leopard Seals
+Little Red Flying Foxes
+Llamas
+Lynxes
+Manatees
+Mandrills
+Meerkats
+Mongeese
+Moose
+Mountain Goats
+Mountain Gorillas
+Mountain Lions
+Mouse Lemurs
+Musk-Ox
+Mole Rats
+Narwhals
+North American River Otters
+Nutrias
+Ocelots
+Opossums
+Orangutans
+Ozark Big-Eared Bats
+Platypuses
+Polar Bears
+Porcupines
+Prairie Dogs
+Proboscis Monkeys
+Pronghorns
+Przewalski’s Horses
+Raccoons
+Red Foxes
+Red Kangaroos
+Red Leaf Monkeys
+Red Pandas
+Red Uakaris
+Rhesus Monkeys
+Right Whales
+Ringed Seals
+Ring-Tailed Lemurs
+Rocky Mountain Bighorn Sheep
+Sea Otters
+Siberian Tigers
+Sifakas
+Skunks
+Sloth Bears
+Snow Leopards
+Snowshoe Hares
+Spectacled Bears
+Sperm Whales
+Spider Monkeys
+Spotted Hyenas
+Squirrels
+Steller Sea Lions
+Sumatran Rhinoceroses
+Sumatran Tigers
+Sun Bears
+Tapirs
+Tasmanian Devils
+Thomson’s Gazelles
+Three-Toed Sloths
+Two-Toed Sloths
+Wallabys
+Walruses
+Warthogs
+Water Buffalos
+Weddell Seals
+Western Lowland Gorillas
+White Rhinoceroses
+White-Eared Kobs
+White-Tailed Deers
+Wildebeests
+Wolves
+Wolverines
+Zebras
