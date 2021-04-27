@@ -26,21 +26,15 @@ error() {
 }
 
 PKG=bazillionaire
-DIR="./$PKG" || DIR="/usr/local/share/$PKG"
+PAT=bz
+[ -d "~/bin/$PAT" ] && DIR="~/bin/$PAT" || DIR="/usr/local/share/$PKG"
 LETTERS=99
 
 while [ ! -z "$1" ]; do
 	case "${1}" in
-		-h|--help)
-			exec man $PKG
-		;;
 		-d|--dir)
 			DIR="$2"
 			shift 2
-		;;
-		-u|--ubuntu)
-			UBUNTU=$(cat $DIR/*.txt | shuf -n 1 | head -c 1)
-			shift
 		;;
 		*)
 			error "Unknown options [$1]"
@@ -61,7 +55,6 @@ Animals() {
 }
 
 Generate() {
-
 		comp="$(Companies)"
 		anim="$(Animals)"
 		printf "It's like %s for %s\n" "$comp" "$anim"
