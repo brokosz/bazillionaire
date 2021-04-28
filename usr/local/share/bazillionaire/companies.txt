@@ -1,15 +1,20 @@
 23andMe
+Acorns
 Acronis
 Adyen
 Afiniti
-Age of Learning, Inc.
+Age of Learning
 Airbnb
+AirGarage
 Airtable
 Airwallex
 AirWatch
 Alan
+Algolia
+Ambient.ai
 Amplitude
 AmWINS Group
+Andela
 Apotea
 AppDirect
 AppDynamics
@@ -19,9 +24,13 @@ AppsFlyer
 Aprogen
 Arctic Wolf
 Armis
+Armory
 Asana
 Asia First Media
+Astranis
+Athelas
 Atlassian
+Atomwise
 Auth0
 Automation Anywhere
 Automattic
@@ -29,6 +38,7 @@ Avant
 AvidXchange
 Avito.ru
 Away
+Axoni
 Babylon Health
 BambooHR
 Benchling
@@ -39,29 +49,37 @@ Better.com
 Bigbasket
 BigID
 Billdesk
+BillionToOne
 Bird
 BitSight
 BlaBlaCar
 Blend
 Bloom Energy
+Bloomscape
 Blue Apron
 Bluehole
 Bolt
+Boom
 Box
 Branch
 Branch Metrics
 Braze
 Brex
+brightline
 Bukalapak
 Byggfakta
 Byju's
 C3.ai
 C6 Bank
 Calabrio
+Calm
+Cambly
 Canva
+Capella Space
 Careem
 Cars24
 Carta
+Cashfree
 Cazoo
 Celonis
 Chargebee
@@ -69,22 +87,30 @@ Checkout.com
 Checkr
 Chime
 CitiusTech
+ClassDojo
+ClearTax
+Clever
 Cloudflare
 Cloudinary
 CloudKitchens
+Coalition
 Cockroach Labs
+Codecov
 Cohesity
+Coinbase
 Collibra
 Compass
 Confluent
 Content Square
 Convoy
+CoreOS
 Coupa
 Coursera
 Coveo
 CRED
 Credit Karma
 Creditas
+Cruise
 Crystal Lagoons
 Culture Amp
 Darktrace
@@ -92,6 +118,8 @@ Databricks
 Dataiku
 Dataminr
 DataRobot
+Dave – Banking For Humans
+Deel
 Deezer
 Delhivery
 Deliveroo
@@ -100,53 +128,79 @@ Dfinity
 Digit Insurance
 DigitalOcean
 DISCO
+Divvy Homes
 Doctolib
 Dollar Shave Club
 Doordash
+DoorDash
 Dream11
 Dropbox
 Druva
+Duffel
 Duo Security
 Duolingo
 dutchie
 Earnix
+EasyPost
 Ebanx
+Eden Workplace
 eFront
 Eightfold.ai
+Embark Trucks
 EMPG
+Envoy
 Epic Games
 Epidemic Sound
+EquipmentShare
 Essential Products
 ezCater
 Fab
+FabFitFun
 Facebook
 Fair
+Faire
 Fanatics
 Farfetch
+Fathom
 Feedzai
 Figma
 FirstCry
 Five Star Finance
+Fivestars
 Fivetran
+Flatiron Health
+Flexport
 Flipkart
 FlixMobility
+Flock Safety
+Flutterwave
 FNZ
 Freshly
 Freshworks
 Front
 Frontline Education
+FutureAdvisor
 Gainsight
+garten
+Gecko Robotics
+Gem
 Getir
 Gett
 Gilt Groupe
 Ginkgo Bioworks
 GitLab
+GitPrime
 Glance
 Global Fashion Group
 Glossier
 Glovo
+Go1
+GOAT Group
+GoCardless
 GoGoVan
 Gojek
+Goldbelly
+Gong
 Gong.io
 Good Technology
 GoPro
@@ -158,24 +212,34 @@ Graphcore
 Groupon
 Grove Collaborative
 Groww
+GrubMarket
+Guesty
 Guild Education
 Gupshup
 Gusto
 Gympass
+H1
 HashiCorp
+Heap
 HeartFlow
+Helion Energy
+HelloSign
 Hemnet
+Heroku
 HighRadius
 Highspot
 Hike Messenger
 HomeAway
+Homebound
 Houzz
+Human Interest
 Icertis
 ID.me
 ifood Movile/Ifood [pt]
 Illumio
 Improbable
 Infinidat
+InfluxData
 Infra.Market
 InMobi
 Innovaccer
@@ -184,6 +248,7 @@ Instacart
 Intarcia Therapeutics
 Intercom
 InVision
+Ironclad
 IronSource
 Itiviti
 Ivalua
@@ -195,6 +260,7 @@ JFrog
 JUUL Labs
 Kabam
 KeepTruckin
+Khatabook
 Klarna
 Klook
 Knotel
@@ -202,7 +268,9 @@ Kry
 Kyriba
 L&P Cosmetic
 Lalamove
+Lambda School
 Landa Digital Printing
+Lattice
 LaunchDarkly
 Lending Club
 Lenskart
@@ -210,8 +278,10 @@ Letgo
 Lightricks
 LinkedIn
 LivingSocial
+Lob
 Locus Robotics
 Loft
+LogDNA
 Loggi
 Lookout
 Lookout Security
@@ -219,18 +289,29 @@ Lucid
 Lucid Software
 Lyft
 Lynda.com
+Lyra Health
 MadeiraMadeira
 Magic Leap
 Mailchimp
 Marqeta
+Mattermost
+MatterPort
+May Mobility
+MBX
 MedMen
 Meero
 Meesho
+MessageBird
+Mighty Buildings
 MindMaze
 Mirakl
 Miro
+Mixpanel
 Mobileye
+Modern Health
+Modern Treasury
 Moderna Therapeutics
+Momentus
 Monday.com
 monday.com
 Monzo
@@ -238,44 +319,58 @@ Mozido
 Mu Sigma
 MuleSoft
 Musinsa
+Mux
 N26
+Nabis
 NantHealth
 NantOmics
 Nearmap
 Netskope
 New Relic
+Newfront Insurance
 Next Insurance
 Nextdoor
 Nexthink
 Niantic
 Northvolt
+Notable Labs
 Notion
+Nova Credit
 Nubank
+NURX
 Nutanix
 Nykaa
 OakNorth
 Oatly
+Observe.AI
 OCSiAl
 Octopus Energy
+OkCredit
 Okta
 Ola Cabs
 Ola Electric
 One Medical
 OneConnect
 OneTrust
+Optimizely
 OrCam
 Oscar Health
 Outreach
+Outschool
 OutSystems
 OVO
 Oxford Nanopore Technologies
 OYO
+PagerDuty
+Panorama Education
 PAX Labs
+PAYFAZZ
 Paytm
 Paytm Mall
 Peak Games
 Peloton
 Pendo
+People.ai
 Personio GmbH
 PharmEasy
 PhonePe
@@ -285,14 +380,17 @@ Pinterest
 Pipedrive
 Pivotal
 Plaid
+PlanGrid
 Podium
 PolicyBazaar
 Postman
 Postmates
+Presto
 Procore
 Prometheus Group
 Prosper Marketplace
 Proteus Digital Health
+Proxy
 Pure Storage
 Quikr
 Quinto Andar
@@ -300,49 +398,64 @@ Quora
 Quotient Technology
 Rappi
 Razorpay
-Rec Room Inc
+Rec Room 
 Reddit
 Relativity Space
 ReNew Power
 Rent the Runway
+Rescale
+Retool
 Revolut
+Ridecell
 RigUp
 Ring
+Rippling
 Riskified
 Rivian
 Rivigo
 Robinhood
 Roivant Sciences
-Roku, Inc.
+Roku
 Rubicon Global
 Rubrik
 Samsara
 Scale AI
+Scribd
 Sea Limited
 Segment
 Seismic
 Seismic Software
+SendBird
 SentinelOne
 ServiceTitan
+SFOX
 Shape Security
 ShareChat
 Shazam
+ShipBob
+Shipper
+Shogun
 ShopClues
 Shopify
+Sift
 SimpliVity
+SingleStore
 Sisense
 Skype
 Skyscanner
-Slack Technologies
+Slack
 SmartNews
+SmartRent
 SmileDirectClub
-Snap Inc
+Snap
 Snapdeal
+Snapdocs
 Snowflake
 Snyk
 Socar
 SoFi
 Solstice
+Solugen
 Sonder
 Souq.com
 SpaceX
@@ -351,21 +464,28 @@ Spotify
 Sprinklr
 Square
 Squarespace
+Squire Technologies
+Standard Cognition
 Starburst Data
 Stash
 Stemcentrx
 Stitch Fix
 StockX
 Stripe
+Substack
 SumoLogic
 Sunrun
+Superhuman
 Swiggy
 Symphony
 Symphony Communication Services
 Talkdesk
+Tally
 Tanium
-team.blue (merge of Combell Group and TransIP Group)
+team.blue
 Telegram
+Tempo
+The Athletic
 The Honest Company
 The Hut Group
 ThoughtSpot
@@ -373,16 +493,21 @@ Thumbtack
 Tipalti
 Toast
 Tokopedia
+Tovala
 TransparentBusiness
 Traveloka
 Trax
+Tray.io
 Tresata
 TripActions
+Truebill
 Truecaller
+Truepill
 Trustly
 Turo
 TuSimple
 Twilio
+Twitch
 Twitter
 Ualá
 Uber
@@ -391,18 +516,23 @@ Udacity
 Udemy
 UiPath
 Unacademy
+Unbabel
+UpKeep
 VAST Data
 Veeam
 VerSe Innovation
 Vestiaire Collective
 Vice Media
+Vidyard
 Vinted
 Virta Health
 Viva Republica
 Vlocity
 VNG
+Volansi
 Vonage
 Voodoo
+Vouch
 Vox Media
 VTEX
 VTS
@@ -411,8 +541,10 @@ Warby Parker
 Wayfair
 Weave
 Webflow
+Weebly
 WeLab
 Wemakeprice
+WePay
 WeWork
 WhatsApp
 Wheels Up
@@ -420,6 +552,7 @@ Wildlife
 Wise
 Woowa Brothers
 Workato
+Xendit
 Yanolja
 Yardi
 Yello Mobile
@@ -429,6 +562,7 @@ Zapier
 Zenefits
 Zenoti
 Zerodha
+ZeroDown
 Zocdoc
 Zomato
 Zoom
